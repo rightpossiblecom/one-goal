@@ -1,0 +1,18 @@
+App Name: One Goal
+
+Short Description:
+A minimal goal tracker that helps you focus on achieving one single goal every day.
+
+Full Description:
+One Goal is a simple, no-nonsense app designed to help you focus on what truly matters: a single goal.
+
+In a world full of complex task lists and overwhelming productivity systems, One Goal gives you a clean slate. You set one goal, and each day you answer a simple question: Did you do it today?
+
+Features:
+- Set and display your one primary goal in a large, distraction-free environment.
+- Tap "Done Today" or "Not Today" to track your daily progress.
+- Build powerful streaks to motivate you and track your longest winning streak.
+- Minimalist, premium design with Dark Mode support for a relaxing experience.
+- Completely private: Everything is stored locally on your device. No accounts, no internet required, and zero data collection.
+
+Stay focused, maintain your streak, and accomplish your One Goal.
